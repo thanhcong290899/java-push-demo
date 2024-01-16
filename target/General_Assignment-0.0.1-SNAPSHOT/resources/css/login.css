@@ -1,0 +1,63 @@
+@charset "ISO-8859-1";
+.container {
+   
+    width: 25%;
+    margin-top: 10%;
+    height: 350px;
+
+}
+
+.pass {
+    margin-top: 20px;
+     width: 390px;
+    margin-left: 25px;
+}
+
+.name {
+     width: 390px;
+    margin-left: 25px;
+}
+
+.member {
+    background-color: aliceblue;
+    height: 335px;
+    border-radius: 10px;
+    position: relative;
+}
+
+.submit {
+    margin-top: 20px;
+ 
+   width: 390px;
+   margin-left: 25px;
+
+}
+
+.sub {
+    background-color: green;
+    color: aliceblue;
+}
+
+p {
+    font-size: 25px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.footer {
+    display: flex;
+    position: absolute;
+    bottom: 0%;
+    background-color: lightslategray;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    
+   
+}

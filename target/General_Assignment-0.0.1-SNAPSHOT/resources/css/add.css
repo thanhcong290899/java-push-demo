@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+.foot{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+span{
+	color: red;
+}
